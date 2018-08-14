@@ -12,6 +12,7 @@ All notable changes to this project will be documented in this file.
 - Fix agent ID zero-padding in alerts coming from Vulnerability Detector. ([#1083](https://github.com/wazuh/wazuh/pull/1083))
 - Fix multiple warnings when agent is offline. ([#1086](https://github.com/wazuh/wazuh/pull/1086))
 - Fixed minor issues in the Makefile and the sources installer on HP-UX, Solaris on SPARC and AIX systems. ([#1089](https://github.com/wazuh/wazuh/pull/1089))
+- Fixed empty configuration blocks for Wazuh modules. ([#1101](https://github.com/wazuh/wazuh/pull/1101))
 
 ### Removed
 
